@@ -209,15 +209,16 @@ function save() {
   }
 }
 
-var config = {
-  apiKey: "AIzaSyDIsyuPWzqi7UuSNewF6cST6IRNlQ-ARx0",
-  authDomain: "my-new-project-4e17a.firebaseapp.com",
-  databaseURL: "https://my-new-project-4e17a.firebaseio.com",
-  projectId: "my-new-project-4e17a",
-  storageBucket: "my-new-project-4e17a.appspot.com",
-  messagingSenderId: "54997258123",
-  appId: "1:54997258123:web:a2b577f2b0489c0ab7298e"
+const config = {
+  apiKey: "AIzaSyCD413bYqghXv2rT6kMhVPhVtQ904DVZMU",
+  authDomain: "iamafullstackdeveloper-2386f.firebaseapp.com",
+  projectId: "iamafullstackdeveloper-2386f",
+  storageBucket: "iamafullstackdeveloper-2386f.appspot.com",
+  messagingSenderId: "443823632328",
+  appId: "1:443823632328:web:a22ca4502c1b901cd4dafd",
+  measurementId: "G-X94GKF1J59"
 };
+
 firebase.initializeApp(config);
 
 var messagesRef = firebase.database().ref("messages");
