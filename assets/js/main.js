@@ -211,11 +211,12 @@ function save() {
 
 var config = {
   apiKey: "AIzaSyDIsyuPWzqi7UuSNewF6cST6IRNlQ-ARx0",
-  authDomain: "https://www.iamafullstackdeveloper.com",
+  authDomain: "my-new-project-4e17a.firebaseapp.com",
   databaseURL: "https://my-new-project-4e17a.firebaseio.com",
   projectId: "my-new-project-4e17a",
   storageBucket: "my-new-project-4e17a.appspot.com",
-  messagingSenderId: "277809443589",
+  messagingSenderId: "54997258123",
+  appId: "1:54997258123:web:a2b577f2b0489c0ab7298e"
 };
 firebase.initializeApp(config);
 
