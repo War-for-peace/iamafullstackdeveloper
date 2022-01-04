@@ -212,7 +212,7 @@ function save() {
 const config = {
   apiKey: "AIzaSyCD413bYqghXv2rT6kMhVPhVtQ904DVZMU",
   authDomain: "iamafullstackdeveloper-2386f.firebaseapp.com",
-  databaseURL: "https://iamafullstackdeveloper-2386f.firebaseio.com",
+  databaseURL: "https://iamafullstackdeveloper-2386f-default-rtdb.firebaseio.com/",
   projectId: "iamafullstackdeveloper-2386f",
   storageBucket: "iamafullstackdeveloper-2386f.appspot.com",
   messagingSenderId: "443823632328",
