@@ -211,7 +211,7 @@ function save() {
 
 var config = {
   apiKey: "AIzaSyDIsyuPWzqi7UuSNewF6cST6IRNlQ-ARx0",
-  authDomain: "iamafullstackdeveloper.com",
+  authDomain: "https://www.iamafullstackdeveloper.com",
   databaseURL: "https://my-new-project-4e17a.firebaseio.com",
   projectId: "my-new-project-4e17a",
   storageBucket: "my-new-project-4e17a.appspot.com",
